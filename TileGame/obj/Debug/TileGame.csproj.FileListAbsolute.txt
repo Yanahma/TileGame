@@ -1,0 +1,9 @@
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\bin\Debug\TileGame.exe.config
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\bin\Debug\TileGame.exe
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\bin\Debug\TileGame.pdb
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\obj\Debug\TileGame.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\obj\Debug\TileGame.Main.resources
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\obj\Debug\TileGame.Properties.Resources.resources
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\obj\Debug\TileGame.csproj.GenerateResource.Cache
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\obj\Debug\TileGame.exe
+g:\documents\visual studio 2015\Projects\TileGame\TileGame\obj\Debug\TileGame.pdb
